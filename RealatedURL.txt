@@ -1,0 +1,3 @@
+-- SVN說明文件
+http://svnbook.red-bean.com/
+https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-index.html
