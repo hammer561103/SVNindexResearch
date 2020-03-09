@@ -1,3 +1,18 @@
 -- SVN說明文件
 http://svnbook.red-bean.com/
 https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-index.html
+http://wiki.greenstone.org/doku.php?id=old:useful_svn_commands
+
+
+-- SVN Client Repository Search
+-- 檔名搜尋
+https://stackoverflow.com/questions/254214/svn-repository-search
+Linux :
+svn list -R file:///subversion/repository | grep filename
+Windows :
+svn list -R file:///subversion/repository | findstr filename
+
+
+-- 外加工具
+FishEye 商業付費
+https://www.atlassian.com/zh/software/fisheye/pricing
